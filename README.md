@@ -1,13 +1,14 @@
-### Olá, eu sou o Richard Kawan 👋
-Engenharia da Computação @ UEMG | Focado em C++
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=120&section=header"/>
 
-> Em busca de Estágio em C++ / Desenvolvimento de Software - Remoto
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00599C&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Richard+Kawan+%F0%9F%91%8B;Eng.+Computa%C3%A7%C3%A3o+%40+UEMG;Focado+em+C%2B%2B+e+POO)](https://git.io/typing-svg)
+
+> Em busca de Estágio em C++ / Desenvolvimento de Software - Remoto | Ituiutaba/MG
 
 ---
 
 ### 🚀 Projeto em destaque
 📚 **[SistemaDeBiblioteca - C++23](https://github.com/RichardKBO/SistemaDeBiblioteca)**
-POO, Herança, Polimorfismo, unique_ptr, STL, CPF e CMake
+`POO` `Herança` `Polimorfismo` `unique_ptr` `STL` `CMake` `Validação CPF`
 
 ---
 
@@ -22,6 +23,9 @@ POO, Herança, Polimorfismo, unique_ptr, STL, CPF e CMake
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+### 🐍 Minhas contribuições
+![Snake](https://raw.githubusercontent.com/RichardKBO/RichardKBO/output/github-snake-dark.svg)
 
-📫 **LinkedIn:** [Richard K. B. Oliveira](https://www.linkedin.com/in/richard-k-b-oliveira-9a1a3b287/) | Ituiutaba/MG
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=120&section=footer"/>
+
+📫 **LinkedIn:** [Richard K. B. Oliveira](https://www.linkedin.com/in/richard-k-b-oliveira-9a1a3b287/)
