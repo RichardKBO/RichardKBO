@@ -50,7 +50,7 @@ Projeto desenvolvido em C++23 com foco em Programação Orientada a Objetos e bo
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RichardKBO&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+  <img src="./profile/trophy.svg" alt="GitHub Trophies"/>
 </p>
 
 ---
