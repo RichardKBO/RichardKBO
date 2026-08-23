@@ -1,17 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=120&section=header&text=&fontSize=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=120&section=header"/>
 
-![[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Richard+Kawan+%F0%9F%91%8B;Eng.+Computa%C3%A7%C3%A3o+%40+UEMG;Focado+em+C%2B%2B+e+POO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Richard+Kawan+%F0%9F%91%8B;Eng.+Computa%C3%A7%C3%A3o+%40+UEMG;Focado+em+C%2B%2B+e+POO)](https://git.io/typing-svg)
 
 > Em busca de Estágio em C++ / Desenvolvimento de Software - Remoto | Ituiutaba/MG
-
----
 
 ### 🚀 Projeto em destaque
 📚 **[SistemaDeBiblioteca - C++23](https://github.com/RichardKBO/SistemaDeBiblioteca)**
 `POO` `Herança` `Polimorfismo` `unique_ptr` `STL` `Validação CPF` `CMake`
 
 ### 📊 Stats em tempo real
-![Stats](https://github-readme-stats.shion.dev/api?username=RichardKBO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Stats](https://github-readme-stats.shion.dev/api?username=RichardKBO&show_icons=true&theme=tokyonight&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RichardKBO&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=RichardKBO&layout=compact&theme=tokyonight&hide_border=true)
 
