@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Richard+Kawan+%F0%9F%91%8B;Eng.+Computa%C3%A7%C3%A3o+%40+UEMG;Focado+em+C%2B%2B+e+POO)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RichardKBO&color=00599C&style=flat-square&label=Profile+Views" alt="views"/>
+</p>
+
 > Em busca de Estágio em C++ / Desenvolvimento de Software - Remoto | Ituiutaba/MG
 
 ### 🚀 Projeto em destaque
@@ -13,7 +17,11 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RichardKBO&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=RichardKBO&layout=compact&theme=tokyonight&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RichardKBO&theme=tokyo-night&hide_border=true&area=true)
+
 ### 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cmake,git,linux,windows&theme=dark)](https://skillicons.dev)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
