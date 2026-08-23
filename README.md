@@ -13,6 +13,7 @@ Sistema completo com POO, Herança, Polimorfismo, `unique_ptr`, STL, validação
 
 ### 📊 Stats em tempo real
 ![Stats](https://github-readme-stats.vercel.app/api?username=RichardKBO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RichardKBO&theme=tokyonight&hide_border=true)
 
 ### 💻 Tech Stack
