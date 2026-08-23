@@ -13,37 +13,30 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # Gera a cobra
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: RichardKBO
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # Gera o 3D
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Generate 3D
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: RichardKBO
 
-      # Manda tudo pra branch output
-      - name: Push to output
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Combine files
+        run: |
+          mkdir -p combined/profile-3d-contrib
+          cp dist/* combined/
+          cp profile-3d-contrib/* combined/profile-3d-contrib/
 
-      - name: Push 3D to output
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: profile-3d-contrib
-          keep_history: true
-          destination_dir: profile-3d-contrib
+          build_dir: combined
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
