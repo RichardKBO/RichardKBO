@@ -12,7 +12,7 @@
 📚 **[SistemaDeBiblioteca - C++23](https://github.com/RichardKBO/SistemaDeBiblioteca)**
 `POO` `Herança` `Polimorfismo` `unique_ptr` `STL` `Validação CPF` `CMake`
 
-### 📊 Stats em tempo real
+### 📊 Stats
 ![Stats](https://github-readme-stats.shion.dev/api?username=RichardKBO&show_icons=true&theme=tokyonight&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RichardKBO&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=RichardKBO&layout=compact&theme=tokyonight&hide_border=true)
@@ -29,7 +29,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🐍 Minhas contribuições
+### 🐍 Cobra
 ![Snake](https://raw.githubusercontent.com/RichardKBO/RichardKBO/output/github-snake-dark.svg)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=120&section=footer"/>
