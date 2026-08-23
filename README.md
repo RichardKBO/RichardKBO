@@ -34,6 +34,9 @@ Projeto desenvolvido em C++23 com foco em Programação Orientada a Objetos e bo
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=RichardKBO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RichardKBO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
@@ -50,7 +53,7 @@ Projeto desenvolvido em C++23 com foco em Programação Orientada a Objetos e bo
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="./profile/trophy.svg" alt="GitHub Trophies"/>
+  <img src="https://raw.githubusercontent.com/RichardKBO/RichardKBO/output/profile/trophy.svg" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -77,6 +80,10 @@ Projeto desenvolvido em C++23 com foco em Programação Orientada a Objetos e bo
 
 ## 📫 Contato
 
-**LinkedIn:** [Richard K. B. Oliveira](https://www.linkedin.com/in/richard-k-b-oliveira-9a1a3b287/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/richard-k-b-oliveira-9a1a3b287/">
+    <img src="https://img.shields.io/badge/LinkedIn-Richard%20K.%20B.%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=00599C&height=120&section=footer)
