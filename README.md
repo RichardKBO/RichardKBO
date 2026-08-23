@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=120&section=header&text=&fontSize=0"/>
 
-[[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Richard+Kawan+%F0%9F%91%8B;Eng.+Computa%C3%A7%C3%A3o+%40+UEMG;Focado+em+C%2B%2B+e+POO)](https://git.io/typing-svg)
+![[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Richard+Kawan+%F0%9F%91%8B;Eng.+Computa%C3%A7%C3%A3o+%40+UEMG;Focado+em+C%2B%2B+e+POO)](https://git.io/typing-svg)
 
 > Em busca de Estágio em C++ / Desenvolvimento de Software - Remoto | Ituiutaba/MG
 
@@ -11,20 +11,20 @@
 `POO` `Herança` `Polimorfismo` `unique_ptr` `STL` `Validação CPF` `CMake`
 
 ### 📊 Stats em tempo real
-[Stats](https://github-readme-stats.shion.dev/api?username=RichardKBO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-[Streak](https://github-readme-streak-stats.herokuapp.com/?user=RichardKBO&theme=tokyonight&hide_border=true)
-[Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=RichardKBO&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.shion.dev/api?username=RichardKBO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RichardKBO&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=RichardKBO&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 💻 Tech Stack
-[C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-[C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-[CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-[Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 🐍 Minhas contribuições
-[Snake](https://raw.githubusercontent.com/RichardKBO/RichardKBO/output/github-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/RichardKBO/RichardKBO/output/github-snake-dark.svg)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=120&section=footer"/>
 
