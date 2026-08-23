@@ -1,42 +1,82 @@
 name: Generate Profile
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
+schedule:
+- cron: "0 */12 * * *"
+
+workflow_dispatch:
+
+push:
+branches:
+- main
+
+permissions:
+contents: write
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
+build:
+runs-on: ubuntu-latest
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: RichardKBO
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v4
 
-      - name: Generate 3D
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: RichardKBO
+  # ==============================
+  # Generate GitHub Snake
+  # ==============================
 
-      - name: Combine files
-        run: |
-          mkdir -p combined/profile-3d-contrib
-          cp dist/* combined/
-          cp profile-3d-contrib/* combined/profile-3d-contrib/
+  - name: Generate Snake
+    uses: Platane/snk@v3
+    with:
+      github_user_name: RichardKBO
+      outputs: |
+        dist/github-snake.svg
+        dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: combined
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  # ==============================
+  # Generate 3D Contributions
+  # ==============================
+
+  - name: Generate 3D Contributions
+    uses: yoshi389111/github-profile-3d-contrib@0.7.1
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      USERNAME: RichardKBO
+
+  # ==============================
+  # Generate GitHub Trophies
+  # ==============================
+
+  - name: Generate GitHub Trophy
+    uses: soulteary/github-profile-trophy-action@v1.0.0
+    with:
+      options: "username=RichardKBO&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true"
+      path: dist/trophy.svg
+      token: ${{ secrets.GITHUB_TOKEN }}
+
+  # ==============================
+  # Combine generated files
+  # ==============================
+
+  - name: Combine files
+    run: |
+      mkdir -p combined/profile
+      mkdir -p combined/profile-3d-contrib
+
+      cp dist/github-snake.svg combined/
+      cp dist/github-snake-dark.svg combined/
+      cp dist/trophy.svg combined/profile/trophy.svg
+
+      cp profile-3d-contrib/* combined/profile-3d-contrib/
+
+  # ==============================
+  # Push to output branch
+  # ==============================
+
+  - name: Push to output branch
+    uses: crazy-max/ghaction-github-pages@v3
+    with:
+      target_branch: output
+      build_dir: combined
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
