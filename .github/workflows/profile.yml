@@ -44,39 +44,59 @@ steps:
       USERNAME: RichardKBO
 
   # ==============================
-  # Generate GitHub Trophies
+  # Prepare Snake + 3D
   # ==============================
 
-  - name: Generate GitHub Trophy
-    uses: soulteary/github-profile-trophy-action@v1.0.0
-    with:
-      options: "username=RichardKBO&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true"
-      path: dist/trophy.svg
-      token: ${{ secrets.GITHUB_TOKEN }}
-
-  # ==============================
-  # Combine generated files
-  # ==============================
-
-  - name: Combine files
+  - name: Prepare output
     run: |
-      mkdir -p combined/profile
       mkdir -p combined/profile-3d-contrib
 
       cp dist/github-snake.svg combined/
       cp dist/github-snake-dark.svg combined/
-      cp dist/trophy.svg combined/profile/trophy.svg
 
       cp profile-3d-contrib/* combined/profile-3d-contrib/
 
   # ==============================
-  # Push to output branch
+  # Publish Snake + 3D
   # ==============================
 
-  - name: Push to output branch
+  - name: Push Snake and 3D to output branch
     uses: crazy-max/ghaction-github-pages@v3
     with:
       target_branch: output
       build_dir: combined
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+trophy:
+runs-on: ubuntu-latest
+
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v4
+
+  # ==============================
+  # Generate GitHub Trophy
+  # ==============================
+
+  - name: Generate GitHub Trophy
+    uses: soulteary/github-profile-trophy-action@v1.0.0
+    with:
+      options: "username=RichardKBO&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true"
+      path: profile/trophy.svg
+      token: ${{ secrets.GITHUB_TOKEN }}
+
+  # ==============================
+  # Commit Trophy
+  # ==============================
+
+  - name: Commit Trophy
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      git add profile/trophy.svg
+
+      git diff --cached --quiet || git commit -m "Update GitHub Trophy"
+
+      git push
