@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=120&section=header&text=&fontSize=0"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00599C&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Richard+Kawan+%F0%9F%91%8B;Eng.+Computa%C3%A7%C3%A3o+%40+UEMG;Focado+em+C%2B%2B+e+POO)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Richard+Kawan+%F0%9F%91%8B;Eng.+Computa%C3%A7%C3%A3o+%40+UEMG;Focado+em+C%2B%2B+e+POO)](https://git.io/typing-svg)
 
 > Em busca de Estágio em C++ / Desenvolvimento de Software - Remoto | Ituiutaba/MG
 
@@ -13,7 +13,7 @@
 ---
 
 ### 📊 Stats em tempo real
-![Stats](https://github-readme-stats.vercel.app/api?username=RichardKBO&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=RichardKBO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RichardKBO&theme=tokyonight&hide_border=true)
 
 ### 💻 Tech Stack
