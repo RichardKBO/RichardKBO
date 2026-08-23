@@ -1,102 +1,71 @@
 name: Generate Profile
 
 on:
-schedule:
-- cron: "0 */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"
 
-workflow_dispatch:
+  workflow_dispatch:
 
-push:
-branches:
-- main
+  push:
+    branches:
+      - main
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-build:
-runs-on: ubuntu-latest
+  profile:
+    runs-on: ubuntu-latest
 
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v4
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-  # ==============================
-  # Generate GitHub Snake
-  # ==============================
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: RichardKBO
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-  - name: Generate Snake
-    uses: Platane/snk@v3
-    with:
-      github_user_name: RichardKBO
-      outputs: |
-        dist/github-snake.svg
-        dist/github-snake-dark.svg?palette=github-dark
+      - name: Generate 3D Contributions
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: RichardKBO
 
-  # ==============================
-  # Generate 3D Contributions
-  # ==============================
+      - name: Generate GitHub Trophy
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=RichardKBO&theme=tokyonight&column=6&row=1&no-frame=true&no-bg=true'
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-  - name: Generate 3D Contributions
-    uses: yoshi389111/github-profile-3d-contrib@0.7.1
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      USERNAME: RichardKBO
+      - name: Prepare generated files
+        run: |
+          mkdir -p combined/profile-3d-contrib
 
-  # ==============================
-  # Prepare Snake + 3D
-  # ==============================
+          cp dist/github-snake.svg combined/
+          cp dist/github-snake-dark.svg combined/
 
-  - name: Prepare output
-    run: |
-      mkdir -p combined/profile-3d-contrib
+          cp profile-3d-contrib/* combined/profile-3d-contrib/
 
-      cp dist/github-snake.svg combined/
-      cp dist/github-snake-dark.svg combined/
+      - name: Publish Snake and 3D
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: combined
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      cp profile-3d-contrib/* combined/profile-3d-contrib/
+      - name: Commit Trophy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-  # ==============================
-  # Publish Snake + 3D
-  # ==============================
+          git add profile/trophy.svg
 
-  - name: Push Snake and 3D to output branch
-    uses: crazy-max/ghaction-github-pages@v3
-    with:
-      target_branch: output
-      build_dir: combined
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git diff --cached --quiet || git commit -m "Update GitHub Trophy"
 
-trophy:
-runs-on: ubuntu-latest
-
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v4
-
-  # ==============================
-  # Generate GitHub Trophy
-  # ==============================
-
-  - name: Generate GitHub Trophy
-    uses: soulteary/github-profile-trophy-action@v1.0.0
-    with:
-      options: "username=RichardKBO&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true"
-      path: profile/trophy.svg
-      token: ${{ secrets.GITHUB_TOKEN }}
-
-  # ==============================
-  # Commit Trophy
-  # ==============================
-
-  - name: Commit Trophy
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      git add profile/trophy.svg
-
-      git diff --cached --quiet || git commit -m "Update GitHub Trophy"
-
-      git push
+          git push
