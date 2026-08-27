@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=120&section=header)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=120&section=header" alt="Header"/>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,rust&theme=dark" alt="C++ and Rust"/>
@@ -108,13 +110,19 @@ Sistema desenvolvido em C++23 com foco em Programação Orientada a Objetos, org
 </p>
 
 <p align="center">
+  <b>🟦 C++</b>
+</p>
 
-`🟦 C++` • `POO` • `STL` • `Smart Pointers` • `Herança` • `Polimorfismo`
+<p align="center">
+  <code>POO</code> • <code>STL</code> • <code>Smart Pointers</code> • <code>Herança</code> • <code>Polimorfismo</code> • <code>Estruturas de Dados</code>
+</p>
 
-`🦀 Rust` • `Cargo` • `Ownership & Borrowing` • `Traits` • `Enums`
+<p align="center">
+  <b>🦀 Rust</b>
+</p>
 
-`Pattern Matching` • `Error Handling` • `CMake` • `Estruturas de Dados`
-
+<p align="center">
+  <code>Cargo</code> • <code>Ownership & Borrowing</code> • <code>Traits</code> • <code>Enums</code> • <code>Pattern Matching</code> • <code>Error Handling</code>
 </p>
 
 ---
@@ -154,4 +162,6 @@ Sistema desenvolvido em C++23 com foco em Programação Orientada a Objetos, org
   </a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=120&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=120&section=footer" alt="Footer"/>
+</p>
