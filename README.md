@@ -27,31 +27,25 @@
 </p>
 
 <pre>
-richard@dev:~$ whoami
-Richard Kawan
+richard@dev:~$ neofetch
 
-richard@dev:~$ languages
-C++ • Rust • C
-
-richard@dev:~$ tools
-CMake • Cargo • Git
-
-richard@dev:~$ focus
-Software Development
-
-richard@dev:~$ status
-Learning • Building • Improving
+OS          Linux / Windows
+Languages   C++ • Rust • C
+Build       CMake • Cargo
+Tools       Git
+Focus       Software Development
+Status      Learning • Building • Improving
 </pre>
 
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos
 
 ### 📚 Sistema de Biblioteca — C++23
 
 [![SistemaDeBiblioteca](https://img.shields.io/badge/GitHub-SistemaDeBiblioteca-F74C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RichardKBO/SistemaDeBiblioteca)
 
-Projeto desenvolvido em C++23 com foco em Programação Orientada a Objetos e boas práticas de desenvolvimento.
+Sistema desenvolvido em C++23 com foco em Programação Orientada a Objetos, organização de código e boas práticas de desenvolvimento.
 
 **Conceitos utilizados:**
 
@@ -82,7 +76,7 @@ Projeto desenvolvido em C++23 com foco em Programação Orientada a Objetos e bo
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,rust,cmake,git,linux,windows&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,rust,cmake,cargo,git,linux,windows&theme=dark" alt="Tech Stack"/>
 </p>
 
 <p align="center">
@@ -93,16 +87,46 @@ Projeto desenvolvido em C++23 com foco em Programação Orientada a Objetos e bo
 
 ## 📈 Habilidades
 
-| Tecnologia | Nível |
+| Tecnologia | Experiência |
 |:---|:---:|
-| 🟦 C++ | █████████░ 90% |
-| 🦀 Rust | ██████░░░░ 60% |
-| ⚙️ C | █████░░░░░ 50% |
-| 🔧 CMake | █████░░░░░ 50% |
-| 🌿 Git | ███████░░░ 70% |
-| 🐧 Linux | ██████░░░░ 60% |
+| 🟦 C++ | Avançando |
+| 🦀 Rust | Em desenvolvimento |
+| ⚙️ C | Intermediário |
+| 🔧 CMake | Em desenvolvimento |
+| 📦 Cargo | Em desenvolvimento |
+| 🌿 Git | Intermediário |
+| 🐧 Linux | Intermediário |
 
-> Os valores representam meu nível/foco atual de estudo.
+---
+
+## 📚 Atualmente estudando
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,cpp&theme=dark" alt="Currently Studying"/>
+</p>
+
+<p align="center">
+
+`🦀 Rust` • `Cargo` • `Ownership & Borrowing` • `Traits` • `Enums`
+
+`Pattern Matching` • `Error Handling` • `POO` • `STL` • `CMake`
+
+</p>
+
+---
+
+## 🎯 Objetivos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Foco-C%2B%2B-F74C00?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Foco-Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Objetivo-Estágio-0D1117?style=for-the-badge&logo=github&logoColor=F74C00" alt="Internship"/>
+</p>
+
+<p align="center">
+  Evoluir continuamente em desenvolvimento de software,
+  estruturas de dados, sistemas e boas práticas de programação.
+</p>
 
 ---
 
