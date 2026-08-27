@@ -102,14 +102,16 @@ Sistema desenvolvido em C++23 com foco em Programação Orientada a Objetos, org
 ## 📚 Atualmente estudando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,cpp&theme=dark" alt="Currently Studying"/>
+  <img src="https://skillicons.dev/icons?i=cpp,rust&theme=dark" alt="Currently Studying"/>
 </p>
 
 <p align="center">
 
+`🟦 C++` • `POO` • `STL` • `Smart Pointers` • `Herança` • `Polimorfismo`
+
 `🦀 Rust` • `Cargo` • `Ownership & Borrowing` • `Traits` • `Enums`
 
-`Pattern Matching` • `Error Handling` • `POO` • `STL` • `CMake`
+`Pattern Matching` • `Error Handling` • `CMake` • `Estruturas de Dados`
 
 </p>
 
