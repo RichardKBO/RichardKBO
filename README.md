@@ -1,19 +1,17 @@
-# 🦀 Richard Kawan — GitHub Profile
-
 ![header](https://capsule-render.vercel.app/api?type=waving\&color=00599C\&height=120\&section=header)
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=600\&lines=Ol%C3%A1%2C+eu+sou+Richard+Kawan+%F0%9F%91%8B;Engenharia+de+Computa%C3%A7%C3%A3o+%40+UEMG;Focado+em+C%2B%2B+e+POO)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=600\&lines=Ol%C3%A1%2C+eu+sou+Richard+Kawan+%F0%9F%91%8B;Engenharia+de+Computa%C3%A7%C3%A3o+%40+UEMG;Focado+em+C%2B%2B%2C+Rust+e+POO)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RichardKBO&color=00599C&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  Estudante de Engenharia de Computação na UEMG, com foco em C++, Programação Orientada a Objetos e Desenvolvimento de Software.
+  Estudante de Engenharia de Computação na UEMG, com foco em C++, Rust, Programação Orientada a Objetos e Desenvolvimento de Software.
 </p>
 
 <p align="center">
-  Buscando oportunidade de estágio em C++ / Desenvolvimento de Software.
+  Buscando oportunidade de estágio em C++ / Rust / Desenvolvimento de Software.
 </p>
 
 ---
@@ -63,7 +61,11 @@ Projeto desenvolvido em C++23 com foco em Programação Orientada a Objetos e bo
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cmake,git,linux,windows&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,rust,cmake,git,linux,windows&theme=dark" alt="Tech Stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cargo-Rust%20Package%20Manager-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Cargo"/>
 </p>
 
 ---
