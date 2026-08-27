@@ -44,10 +44,6 @@ Projeto desenvolvido em C++23 com foco em Programação Orientada a Objetos e bo
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RichardKBO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RichardKBO&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
