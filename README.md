@@ -96,57 +96,16 @@ Projeto desenvolvido em C++23 com foco em Programação Orientada a Objetos e bo
 
 ## 📈 Habilidades
 
-<p align="center">
+| Tecnologia |      Nível     |
+| :--------- | :------------: |
+| 🟦 C++     | █████████░ 90% |
+| 🦀 Rust    | ██████░░░░ 60% |
+| ⚙️ C       | █████░░░░░ 50% |
+| 🔧 CMake   | █████░░░░░ 50% |
+| 🌿 Git     | ███████░░░ 70% |
+| 🐧 Linux   | ██████░░░░ 60% |
 
-<b>C++</b> — 45%
-
-<br>
-
-██████████████████░░░░░░░░░░░░░░░░░░░░
-
-<br><br>
-
-<b>Rust</b> — 25%
-
-<br>
-
-██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-<br><br>
-
-<b>C</b> — 10%
-
-<br>
-
-████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-<br><br>
-
-<b>CMake</b> — 8%
-
-<br>
-
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-<br><br>
-
-<b>Git</b> — 7%
-
-<br>
-
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-<br><br>
-
-<b>Linux</b> — 5%
-
-<br>
-
-██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-</p>
-
-> As porcentagens representam meu foco e nível relativo de domínio atual, não uma medição oficial.
+> Os valores representam meu nível/foco atual de estudo.
 
 ---
 
