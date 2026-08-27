@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving\&color=00599C\&height=120\&section=header)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,rust&theme=dark" alt="C++ and Rust"/>
+</p>
+
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=600\&lines=Ol%C3%A1%2C+eu+sou+Richard+Kawan+%F0%9F%91%8B;Engenharia+de+Computa%C3%A7%C3%A3o+%40+UEMG;Focado+em+C%2B%2B%2C+Rust+e+POO)
 
 <p align="center">
