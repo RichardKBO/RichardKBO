@@ -20,6 +20,30 @@
 
 ---
 
+## 💻 Terminal
+
+```text
+$ whoami
+Richard Kawan
+
+$ languages
+C++ | Rust | C
+
+$ tools
+CMake | Cargo | Git
+
+$ operating_systems
+Linux | Windows
+
+$ focus
+Software Development
+
+$ status
+Learning • Building • Improving
+```
+
+---
+
 ## 🚀 Projeto em destaque
 
 ### 📚 Sistema de Biblioteca — C++23
