@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Richard+Kawan+%F0%9F%91%8B;Focado+em+C%2B%2B+e+POO;Estudando+e+construindo+projetos" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Richard+Kawan+%F0%9F%91%8B;Focado+em+C%2B%2B+e+POO;Estudando+engenharia+de+software;Construindo+e+refatorando+projetos" alt="Typing"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Estudante de Engenharia de Computação na UEMG, com foco em C++, Programação Orientada a Objetos e Desenvolvimento de Software.
+  Estudante de Engenharia de Computação na UEMG, com foco em C++, Programação Orientada a Objetos e desenvolvimento de software.
 </p>
 
 <p align="center">
@@ -36,9 +36,9 @@ richard@dev:~$ neofetch
 OS          Linux / Windows
 Languages   C++ • C
 Build       CMake
-Tools       Git
-Focus       Software Development
-Status      Learning • Building • Improving
+Versioning  Git • GitHub
+Focus       C++ • POO • Software Development
+Status      Learning • Building • Refactoring
 </pre>
 
 ---
@@ -59,6 +59,8 @@ Status      Learning • Building • Improving
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/POO-6366F1?style=for-the-badge" alt="POO"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
@@ -86,76 +88,86 @@ Status      Learning • Building • Improving
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cmake,git,linux,windows&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,cmake,git,github,linux,windows&theme=dark" alt="Tech Stack"/>
 </p>
 
 ---
 
 ## 📈 Habilidades
 
-| Tecnologia |     Experiência    |
-| :--------- | :----------------: |
-| 🟦 C++     |      Avançando     |
-| ⚙️ C       |    Intermediário   |
-| 🔧 CMake   | Em desenvolvimento |
-| 🌿 Git     |    Intermediário   |
-| 🐧 Linux   |    Intermediário   |
-| 🪟 Windows |    Intermediário   |
-| 🧩 POO     |      Avançando     |
+| Tecnologia | Nível atual |
+| :--------- | :---------: |
+| 🟦 C++ | **Avançando** |
+| 🧩 POO | **Avançando** |
+| 📦 STL | **Intermediário** |
+| 🧠 Smart Pointers | **Intermediário** |
+| ⚠️ Tratamento de Exceções | **Intermediário** |
+| 🏗️ CMake | **Intermediário** |
+| 🌿 Git | **Intermediário** |
+| 🐧 Linux | **Básico / Intermediário** |
+| 🪟 Windows | **Básico / Intermediário** |
+| ⚙️ C | **Intermediário** |
 
 ---
 
-## 📚 Atualmente estudando
+## 🧠 Conhecimentos em C++
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="Currently Studying"/>
+  <code>Classes</code>
+  <code>Encapsulamento</code>
+  <code>Herança</code>
+  <code>Polimorfismo</code>
+  <code>Classes Abstratas</code>
+  <code>Métodos Virtuais</code>
+  <code>override</code>
+  <code>Composição</code>
 </p>
 
 <p align="center">
-  <b>🟦 C++</b>
+  <code>std::vector</code>
+  <code>std::unique_ptr</code>
+  <code>std::make_unique</code>
+  <code>std::move</code>
+  <code>Lambdas</code>
+  <code>Iteradores</code>
+  <code>Algoritmos STL</code>
 </p>
 
 <p align="center">
-  <code>POO</code> • <code>STL</code> • <code>Smart Pointers</code> • <code>Herança</code> • <code>Polimorfismo</code> • <code>Encapsulamento</code> • <code>Estruturas de Dados</code> • <code>Templates</code>
-</p>
-
----
-
-## 🎯 Objetivos
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Foco-C%2B%2B-6366F1?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Foco-POO-6366F1?style=for-the-badge" alt="POO"/>
-  <img src="https://img.shields.io/badge/Objetivo-Estágio-0D1117?style=for-the-badge&logo=github&logoColor=6366F1" alt="Internship"/>
-</p>
-
-<p align="center">
-  Evoluir continuamente em desenvolvimento de software,
-  estruturas de dados, sistemas e boas práticas de programação.
-</p>
-
----
-
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RichardKBO/RichardKBO/output/github-snake-dark.svg" alt="GitHub Snake"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RichardKBO/RichardKBO/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions"/>
+  <code>const</code>
+  <code>Referências</code>
+  <code>std::chrono</code>
+  <code>Exceções</code>
+  <code>Smart Pointers</code>
+  <code>Separação de Responsabilidades</code>
 </p>
 
 ---
 
-## 📫 Contato
+## ⚠️ Tratamento de Exceções
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/richard-k-b-oliveira-9a1a3b287/">
-    <img src="https://img.shields.io/badge/LinkedIn-Richard%20K.%20B.%20Oliveira-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+Tenho praticado tratamento de erros com exceções e organização hierárquica de tipos.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" alt="Footer"/>
-</p>
+Exemplo da arquitetura utilizada no projeto:
+
+```text
+std::exception
+├── std::runtime_error
+│   └── BibliotecaException
+│       ├── LivroNaoEncontradoException
+│       ├── ISBNDuplicadoException
+│       ├── LimiteEmprestimosException
+│       ├── UsuarioNaoEncontradoException
+│       └── outras exceções de domínio
+│
+├── std::out_of_range
+│   └── BibliotecaRangeException
+│       ├── QuantidadeDePaginasInvalidaException
+│       ├── TamanhoArquivoInvalidoException
+│       └── OpcaoInvalidaException
+│
+└── std::invalid_argument
+    └── BibliotecaInvalidaException
+        ├── EntradaInvalidaException
+        ├── TipoInvalidoException
+        └── DadoInvalidoException
