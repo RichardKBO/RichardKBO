@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust&theme=dark" alt="C++ and Rust"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c&theme=dark" alt="C++ and C"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Richard+Kawan+%F0%9F%91%8B;Focado+em+C%2B%2B%2C+Rust+e+POO;Estudando+e+construindo+projetos" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Richard+Kawan+%F0%9F%91%8B;Focado+em+C%2B%2B+e+POO;Estudando+e+construindo+projetos" alt="Typing"/>
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  Estudante de Engenharia de Computação na UEMG, com foco em C++, Rust, Programação Orientada a Objetos e Desenvolvimento de Software.
+  Estudante de Engenharia de Computação na UEMG, com foco em C++, Programação Orientada a Objetos e Desenvolvimento de Software.
 </p>
 
 <p align="center">
-  Buscando oportunidade de estágio em C++ / Rust / Desenvolvimento de Software.
+  Buscando oportunidade de estágio em C++ / Desenvolvimento de Software.
 </p>
 
 ---
@@ -34,8 +34,8 @@
 richard@dev:~$ neofetch
 
 OS          Linux / Windows
-Languages   C++ • Rust • C
-Build       CMake • Cargo
+Languages   C++ • C
+Build       CMake
 Tools       Git
 Focus       Software Development
 Status      Learning • Building • Improving
@@ -57,7 +57,7 @@ Status      Learning • Building • Improving
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/POO-F74C00?style=for-the-badge" alt="POO"/>
 </p>
 
@@ -86,33 +86,29 @@ Status      Learning • Building • Improving
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,rust,cmake,cargo,git,linux,windows&theme=dark" alt="Tech Stack"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cargo-Rust%20Package%20Manager-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="Cargo"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,cmake,git,linux,windows&theme=dark" alt="Tech Stack"/>
 </p>
 
 ---
 
 ## 📈 Habilidades
 
-| Tecnologia | Experiência |
-|:---|:---:|
-| 🟦 C++ | Avançando |
-| 🦀 Rust | Em desenvolvimento |
-| ⚙️ C | Intermediário |
-| 🔧 CMake | Em desenvolvimento |
-| 📦 Cargo | Em desenvolvimento |
-| 🌿 Git | Intermediário |
-| 🐧 Linux | Intermediário |
+| Tecnologia |     Experiência    |
+| :--------- | :----------------: |
+| 🟦 C++     |      Avançando     |
+| ⚙️ C       |    Intermediário   |
+| 🔧 CMake   | Em desenvolvimento |
+| 🌿 Git     |    Intermediário   |
+| 🐧 Linux   |    Intermediário   |
+| 🪟 Windows |    Intermediário   |
+| 🧩 POO     |      Avançando     |
 
 ---
 
 ## 📚 Atualmente estudando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust&theme=dark" alt="Currently Studying"/>
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="Currently Studying"/>
 </p>
 
 <p align="center">
@@ -120,15 +116,7 @@ Status      Learning • Building • Improving
 </p>
 
 <p align="center">
-  <code>POO</code> • <code>STL</code> • <code>Smart Pointers</code> • <code>Herança</code> • <code>Polimorfismo</code> • <code>Estruturas de Dados</code>
-</p>
-
-<p align="center">
-  <b>🦀 Rust</b>
-</p>
-
-<p align="center">
-  <code>Cargo</code> • <code>Ownership & Borrowing</code> • <code>Traits</code> • <code>Enums</code> • <code>Pattern Matching</code> • <code>Error Handling</code>
+  <code>POO</code> • <code>STL</code> • <code>Smart Pointers</code> • <code>Herança</code> • <code>Polimorfismo</code> • <code>Encapsulamento</code> • <code>Estruturas de Dados</code> • <code>Templates</code>
 </p>
 
 ---
@@ -137,7 +125,7 @@ Status      Learning • Building • Improving
 
 <p align="center">
   <img src="https://img.shields.io/badge/Foco-C%2B%2B-F74C00?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Foco-Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Foco-POO-F74C00?style=for-the-badge" alt="POO"/>
   <img src="https://img.shields.io/badge/Objetivo-Estágio-0D1117?style=for-the-badge&logo=github&logoColor=F74C00" alt="Internship"/>
 </p>
 
