@@ -36,7 +36,6 @@ richard@dev:~$ neofetch
 OS          Linux / Windows
 Languages   C++ • C
 Build       CMake
-Versioning  Git • GitHub
 Focus       C++ • POO • Software Development
 Status      Learning • Building • Refactoring
 </pre>
@@ -60,8 +59,6 @@ Status      Learning • Building • Refactoring
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/POO-6366F1?style=for-the-badge" alt="POO"/>
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
@@ -102,7 +99,6 @@ Status      Learning • Building • Refactoring
 | 🧩 POO | **Avançando** |
 | 📦 STL | **Intermediário** |
 | 🧠 Smart Pointers | **Intermediário** |
-| ⚠️ Exceções | **Intermediário** |
 | 🏗️ CMake | **Intermediário** |
 | 🌿 Git | **Intermediário** |
 | 🐧 Linux | **Básico / Intermediário** |
@@ -146,10 +142,10 @@ Status      Learning • Building • Refactoring
 </p>
 
 <p align="center">
-  <code>Exceções</code> •
-  <code>Hierarquia de Exceções</code> •
   <code>Validação</code> •
-  <code>std::chrono</code>
+  <code>Refatoração</code> •
+  <code>std::chrono</code> •
+  <code>Smart Pointers</code>
 </p>
 
 ---
@@ -167,94 +163,14 @@ Além de estudar a linguagem, venho praticando conceitos relacionados à constru
 <p align="center">
   <code>Encapsulamento</code> •
   <code>Gerenciamento de Memória</code> •
-  <code>Tratamento de Exceções</code>
+  <code>Validação de Dados</code>
 </p>
 
 <p align="center">
   <code>Organização em .h/.cpp</code> •
   <code>Arquitetura de Classes</code> •
-  <code>Validação de Dados</code>
+  <code>Boas Práticas</code>
 </p>
-
----
-
-## ⚠️ Tratamento de Exceções
-
-Tenho praticado tratamento de erros utilizando uma hierarquia própria de exceções para representar diferentes categorias de problemas.
-
-Estrutura aplicada nos projetos:
-
-```text
-std::exception
-│
-├── std::runtime_error
-│   └── BibliotecaException
-│       ├── LivroNaoEncontradoException
-│       ├── ISBNDuplicadoException
-│       ├── LivroJaPossuiException
-│       ├── LimiteEmprestimosException
-│       ├── LivroIndisponivelException
-│       ├── EmprestimoNaoEncontradoException
-│       ├── UsuarioNaoEncontradoException
-│       ├── UsuarioDuplicadoException
-│       ├── UsuarioComEmprestimosException
-│       ├── UsuarioNaoPossuiEsseLivroException
-│       ├── LivroEmprestadoException
-│       ├── DataEmprestimoInvalidaException
-│       ├── NomeUsuarioInvalidoException
-│       ├── CPFInvalidoException
-│       ├── NumeroDeCadastroInvalidoException
-│       ├── TituloInvalidoException
-│       ├── AutorInvalidoException
-│       └── ISBNInvalidoException
-│
-├── std::out_of_range
-│   └── BibliotecaRangeException
-│       ├── QuantidadeDePaginasInvalidaException
-│       ├── TamanhoArquivoInvalidoException
-│       └── OpcaoInvalidaException
-│
-└── std::invalid_argument
-    └── BibliotecaInvalidaException
-        ├── EntradaInvalidaException
-        ├── TipoInvalidoException
-        └── DadoInvalidoException
-```
-
----
-
-## 🔧 Git & GitHub
-
-Tenho utilizado Git e GitHub como parte do desenvolvimento dos projetos, praticando um fluxo baseado em:
-
-```text
-Issue
-   ↓
-Branch
-   ↓
-Implementação
-   ↓
-Commit
-   ↓
-Pull Request
-   ↓
-Review
-   ↓
-Merge
-   ↓
-main
-```
-
-Também venho praticando:
-
-```text
-Git branches
-Commits semânticos
-Pull Requests
-Issues
-Refatoração incremental
-Organização do histórico
-```
 
 ---
 
@@ -314,9 +230,9 @@ Refatorar
         ↓
 Separar responsabilidades
         ↓
-Melhorar tratamento de erros
+Melhorar a arquitetura
         ↓
-Organizar o desenvolvimento com Git/GitHub
+Construir código mais organizado
 ```
 
 ---
@@ -339,10 +255,10 @@ Organizar o desenvolvimento com Git/GitHub
 </p>
 
 <p align="center">
-  <code>Exceções</code> •
   <code>Validações</code> •
   <code>Refatoração</code> •
-  <code>Arquitetura</code>
+  <code>Arquitetura</code> •
+  <code>Boas Práticas</code>
 </p>
 
 ---
