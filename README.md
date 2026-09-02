@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=120&section=header" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=header" alt="Header"/>
 </p>
 
 <p align="center">
@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Richard+Kawan+%F0%9F%91%8B;Focado+em+C%2B%2B+e+POO;Estudando+e+construindo+projetos" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Richard+Kawan+%F0%9F%91%8B;Focado+em+C%2B%2B+e+POO;Estudando+e+construindo+projetos" alt="Typing"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RichardKBO&color=F74C00&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=RichardKBO&color=A855F7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ## 💻 Terminal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/richard%40dev-0D1117?style=for-the-badge&logo=linux&logoColor=F74C00" alt="Terminal"/>
+  <img src="https://img.shields.io/badge/richard%40dev-0D1117?style=for-the-badge&logo=linux&logoColor=A855F7" alt="Terminal"/>
 </p>
 
 <pre>
@@ -51,14 +51,14 @@ Status      Learning • Building • Improving
 
 <p align="center">
   <a href="https://github.com/RichardKBO?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_Todos_os_Projetos-F74C00?style=for-the-badge" alt="Todos os Projetos"/>
+    <img src="https://img.shields.io/badge/📂_Todos_os_Projetos-A855F7?style=for-the-badge" alt="Todos os Projetos"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/POO-F74C00?style=for-the-badge" alt="POO"/>
+  <img src="https://img.shields.io/badge/POO-A855F7?style=for-the-badge" alt="POO"/>
 </p>
 
 ---
@@ -66,11 +66,11 @@ Status      Learning • Building • Improving
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=RichardKBO&show_icons=true&theme=dark&title_color=F74C00&icon_color=F74C00&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=RichardKBO&show_icons=true&theme=dark&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RichardKBO&layout=compact&theme=dark&title_color=F74C00&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RichardKBO&layout=compact&theme=dark&title_color=A855F7&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -124,9 +124,9 @@ Status      Learning • Building • Improving
 ## 🎯 Objetivos
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Foco-C%2B%2B-F74C00?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Foco-POO-F74C00?style=for-the-badge" alt="POO"/>
-  <img src="https://img.shields.io/badge/Objetivo-Estágio-0D1117?style=for-the-badge&logo=github&logoColor=F74C00" alt="Internship"/>
+  <img src="https://img.shields.io/badge/Foco-C%2B%2B-A855F7?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Foco-POO-A855F7?style=for-the-badge" alt="POO"/>
+  <img src="https://img.shields.io/badge/Objetivo-Estágio-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="Internship"/>
 </p>
 
 <p align="center">
@@ -152,10 +152,10 @@ Status      Learning • Building • Improving
 
 <p align="center">
   <a href="https://www.linkedin.com/in/richard-k-b-oliveira-9a1a3b287/">
-    <img src="https://img.shields.io/badge/LinkedIn-Richard%20K.%20B.%20Oliveira-F74C00?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Richard%20K.%20B.%20Oliveira-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=120&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=footer" alt="Footer"/>
 </p>
